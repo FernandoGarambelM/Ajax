@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const btnMostrarRegiones = document.getElementById('btnMostrarRegiones');
 
-        //btnMostrarRegiones.addEventListener('click', () => {
+    btnMostrarRegiones.addEventListener('click', () => {
         fetch('../data.json')
             .then(response => {
                 if (!response.ok) {
@@ -15,11 +15,13 @@ document.addEventListener("DOMContentLoaded", () => {
             .catch(error => {
                 console.error('Error:', error);
             });
-    
+    });
 });
 
 function mostrarRegiones(data) {
     const regionList = document.getElementById('regionList');
+    regionList.innerHTML = '';
+    
     data.forEach(regionData => {
         const li = document.createElement('li');
         li.textContent = regionData.region;
