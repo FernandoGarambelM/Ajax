@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .then(data => {
                 mostrarRegiones(data);
+                btnMostrarRegiones.style.display = 'none';
             })
             .catch(error => {
                 console.error('Error:', error);
@@ -20,8 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function mostrarRegiones(data) {
     const regionList = document.getElementById('regionList');
-    regionList.innerHTML = '';
-    
+    //regionList.innerHTML = '';
+
     data.forEach(regionData => {
         const li = document.createElement('li');
         li.textContent = regionData.region;
