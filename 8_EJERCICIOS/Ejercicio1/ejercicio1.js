@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .then(data => {
                 mostrarRegiones(data);
-                btnMostrarRegiones.style.display = 'none';
+                btnMostrarRegiones.style.display = 'none'; // Se oculta el boton despues de ejecutarlo
             })
             .catch(error => {
                 console.error('Error:', error);
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function mostrarRegiones(data) {
     const regionList = document.getElementById('regionList');
-    //regionList.innerHTML = '';
+    //regionList.innerHTML = ''; //Ya no se necesita limpiar el contenido
 
     data.forEach(regionData => {
         const li = document.createElement('li');
