@@ -50,4 +50,18 @@ function mostrarRegiones(data) {
         li.textContent = `${region}: ${casosConfirmadosPorRegion[region]}`;
         regionList.appendChild(li);
     }
+
+    const totalLi = document.createElement('li');
+    totalLi.style.marginTop = '20px';
+    totalLi.textContent = `Total de casos: ${contarTotalCasos(casosConfirmadosPorRegion)}`;
+    regionList.appendChild(totalLi);
+}
+
+function contarTotalCasos(casosConfirmadosPorRegion) {
+    let totalCasos = 0;
+    for (let region in casosConfirmadosPorRegion) {
+        const casosRegion = casosConfirmadosPorRegion[region];
+        totalCasos += casosRegion;
+    }
+    return totalCasos;
 }
