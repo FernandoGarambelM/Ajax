@@ -32,6 +32,19 @@ function mostrarRegiones(data) {
         casosConfirmadosPorRegion[region] = totalCasosConfirmados;
     });
 
+    while(Object.keys(casosConfirmadosPorRegion).length > 10){
+        let menorCantidad = Infinity;
+        let regionMenorCasos = null;
+        for (let region in casosConfirmadosPorRegion) {
+            const cantidadCasos = casosConfirmadosPorRegion[region];
+            if (cantidadCasos < menorCantidad) {
+                menorCantidad = cantidadCasos;
+                regionMenorCasos = region;
+            }
+        }
+        delete casosConfirmadosPorRegion[regionMenorCasos];
+    }
+
     for (let region in casosConfirmadosPorRegion) {
         const li = document.createElement('li');
         li.textContent = `${region}: ${casosConfirmadosPorRegion[region]}`;
