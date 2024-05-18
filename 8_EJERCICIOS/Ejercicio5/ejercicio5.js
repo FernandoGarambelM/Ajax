@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function mostrarGraficos(data) {
     const contenedor = document.querySelector('.contenedor');
-    contenedor.innerHTML = ''; // Clear any existing content
+    contenedor.innerHTML = ''; 
 
     data.forEach(regionData => {
         const canvasContainer = document.createElement('div');
@@ -42,7 +42,7 @@ function mostrarGraficos(data) {
         let values = regionData.confirmed.map(entry => parseInt(entry.value));
 
         let ctx = canvas.getContext('2d');
-        new Chart(ctx, {
+        new Chart(ctx, { 
             type: 'line',
             data: {
                 labels: dates,
@@ -53,14 +53,11 @@ function mostrarGraficos(data) {
                     backgroundColor: 'rgba(75, 192, 192, 0.2)',
                     fill: true,
                 }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false
             }
         });
     });
-}
-
-function getRandomColor(alpha = 1) {
-    const r = Math.floor(Math.random() * 255);
-    const g = Math.floor(Math.random() * 255);
-    const b = Math.floor(Math.random() * 255);
-    return `rgba(${r}, ${g}, ${b}, ${alpha})`;
 }
