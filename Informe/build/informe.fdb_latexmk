@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1716002862 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" "build/informe.pdf" "informe" 1716002865 0
+["pdflatex"] 1716042857 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" "build/informe.pdf" "informe" 1716042859 0
   "C:/Users/luisg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702406101 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/luisg/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695176059 23178960 44c98fc1914124201fa15bc2b5c82cfb ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -118,12 +118,12 @@
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "build/informe.aux" 1716002865 2880 7cc515924e4bd66e8cb72b96f418816f "pdflatex"
-  "build/informe.out" 1716002865 1781 d89ffd7326e438124a5f5d3ae35559c3 "pdflatex"
-  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" 1716002860 10464 4f54738d32ebc6e08ac235274662cb83 ""
+  "build/informe.aux" 1716042859 4257 dfc51495245fe31968d4bef0e1c91014 "pdflatex"
+  "build/informe.out" 1716042859 5667 95615b7b012ffcf8ea1cbeb5207370f4 "pdflatex"
+  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" 1716042854 11202 a7cb19c9465b2fca3673517a150370da ""
   "img/logo_abet.png" 1695176645 6307 419a1d1911db3872e78cc7f9d6dfea5f ""
   "img/logo_episunsa.png" 1695176645 6815 2a9ee48dad6b8fd2216f86902e5e7a6f ""
-  "informe.tex" 1716002860 10464 4f54738d32ebc6e08ac235274662cb83 ""
+  "informe.tex" 1716042854 11202 a7cb19c9465b2fca3673517a150370da ""
   (generated)
   "build/informe.aux"
   "build/informe.log"
