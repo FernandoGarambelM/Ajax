@@ -40,6 +40,7 @@ function mostrarGraficos(data) {
 
         let dates = regionData.confirmed.map(entry => entry.date);
         let values = regionData.confirmed.map(entry => parseInt(entry.value));
+        let colors = generarRandomColor();
 
         let ctx = canvas.getContext('2d');
         new Chart(ctx, { 
@@ -49,8 +50,8 @@ function mostrarGraficos(data) {
                 datasets: [{
                     label: `Número de Confirmados en ${regionData.region}`,
                     data: values,
-                    borderColor: 'rgba(75, 192, 192, 1)',
-                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: colors.solid,     
+                    backgroundColor: colors.translucent,
                     fill: true,
                 }]
             },
@@ -60,4 +61,15 @@ function mostrarGraficos(data) {
             }
         });
     });
+}
+
+function generarRandomColor() {
+    let r = Math.floor(Math.random() * 256);
+    let g = Math.floor(Math.random() * 256);
+    let b = Math.floor(Math.random() * 256);
+
+    return {
+        solid: `rgba(${r},${g},${b},1)`,
+        translucent: `rgba(${r},${g},${b},0.2)`
+    };
 }
