@@ -28,10 +28,9 @@ button {
 }
 
 .contenedor {
-    height: 600px;
+    height: 800px;
     width: 100%;
     background-color: #ebd4d4;
-    display: none;
     align-items: center;
     justify-content: center;
     text-align: center;
