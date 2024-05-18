@@ -1,4 +1,38 @@
 document.addEventListener("DOMContentLoaded", function() {
+    const contenedorOpciones = document.querySelector('.opciones');
+    fetch('../data.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            data.forEach(regionData => {
+                const checkboxId = regionData.region.replace(/\s+/g, ''); 
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = checkboxId;
+                checkbox.name = 'opcion';
+                checkbox.value = regionData.region;
+                
+                const label = document.createElement('label');
+                label.htmlFor = checkboxId;
+                label.textContent = regionData.region;
+
+                const br = document.createElement('br');
+
+                contenedorOpciones.appendChild(checkbox);
+                contenedorOpciones.appendChild(label);
+                contenedorOpciones.appendChild(br);
+            });
+        })
+        .catch(error => {
+            console.error('Error fetching data:', error);
+        });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
     const btnMostrarGrafico = document.getElementById('mostrarGrafico');
     const contenedor = document.querySelector('.contenedor');
 
@@ -11,7 +45,6 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (data.length > 0) {
                     mostrarGraficos(data);
                     contenedor.style.display = 'flex';
-                    btnMostrarGrafico.style.display = 'none';
                 } else {
                     console.error("No se encontraron datos de regiones");
                 }
@@ -37,7 +70,7 @@ function mostrarGraficos(data) {
             const canvasContainer = document.createElement('div');
             canvasContainer.classList.add('canvas-container');
             const canvas = document.createElement('canvas');
-            canvas.id = `Grafico-${regionData.region}`;
+            canvas.id = `Grafico-${checkboxId}`;
             canvasContainer.appendChild(canvas);
             contenedor.appendChild(canvasContainer);
 
