@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.19)  18 MAY 2024 09:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.19)  18 MAY 2024 10:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,13 +650,18 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [1{C:/Users/luisg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./img/logo_episunsa.png> <./img/logo_abet.png>]
+<img/Ejer1T2HTML.jpg, id=105, 524.71031pt x 295.1025pt>
+File: img/Ejer1T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer1T2HTML.jpg>
+Package pdftex.def Info: img/Ejer1T2HTML.jpg  used on input line 198.
+(pdftex.def)             Requested size: 443.57848pt x 249.48293pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 214.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 203.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 214.
+Package pdftex.def Info: img/logo_abet.png  used on input line 203.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -669,13 +674,23 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [2
 
 ]
+<img/Ejer1T2Script.jpg, id=111, 463.7325pt x 207.77625pt>
+File: img/Ejer1T2Script.jpg Graphic file (type jpg)
+<use img/Ejer1T2Script.jpg>
+Package pdftex.def Info: img/Ejer1T2Script.jpg  used on input line 206.
+(pdftex.def)             Requested size: 443.57848pt x 198.74957pt.
+<img/Ejer1T2Página.jpg, id=112, 586.44093pt x 654.94687pt>
+File: img/Ejer1T2Página.jpg Graphic file (type jpg)
+<use img/Ejer1T2Página.jpg>
+Package pdftex.def Info: img/Ejer1T2Página.jpg  used on input line 214.
+(pdftex.def)             Requested size: 443.57848pt x 495.3963pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 214.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 219.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 214.
+Package pdftex.def Info: img/logo_abet.png  used on input line 219.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -685,23 +700,561 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[3]
-Overfull \hbox (4.41283pt too wide) in paragraph at lines 223--233
+[3 <./img/Ejer1T2HTML.jpg> <./img/Ejer1T2Script.jpg>]
+<img/Ejer1T2result.jpg, id=119, 522.45187pt x 621.82312pt>
+File: img/Ejer1T2result.jpg Graphic file (type jpg)
+<use img/Ejer1T2result.jpg>
+Package pdftex.def Info: img/Ejer1T2result.jpg  used on input line 222.
+(pdftex.def)             Requested size: 443.57848pt x 527.95438pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 227.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 227.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[4 <./img/Ejer1T2Página.jpg>]
+<img/Ejer2T2HTML.jpg, id=125, 519.44063pt x 262.73157pt>
+File: img/Ejer2T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer2T2HTML.jpg>
+Package pdftex.def Info: img/Ejer2T2HTML.jpg  used on input line 234.
+(pdftex.def)             Requested size: 443.57848pt x 224.36119pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 239.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 239.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[5 <./img/Ejer1T2result.jpg>]
+<img/Ejer2T2Script.jpg, id=131, 688.07062pt x 684.30656pt>
+File: img/Ejer2T2Script.jpg Graphic file (type jpg)
+<use img/Ejer2T2Script.jpg>
+Package pdftex.def Info: img/Ejer2T2Script.jpg  used on input line 242.
+(pdftex.def)             Requested size: 443.57848pt x 441.14986pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 247.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 247.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[6 <./img/Ejer2T2HTML.jpg>]
+<img/Ejer2T2Pagina.jpg, id=137, 963.6pt x 408.77719pt>
+File: img/Ejer2T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer2T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer2T2Pagina.jpg  used on input line 250.
+(pdftex.def)             Requested size: 443.57848pt x 188.17076pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 255.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 255.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[7 <./img/Ejer2T2Script.jpg>]
+<img/Ejer2T2Result.jpg, id=144, 963.6pt x 521.69907pt>
+File: img/Ejer2T2Result.jpg Graphic file (type jpg)
+<use img/Ejer2T2Result.jpg>
+Package pdftex.def Info: img/Ejer2T2Result.jpg  used on input line 258.
+(pdftex.def)             Requested size: 443.57848pt x 240.15164pt.
+<img/Ejer3T2HTML.jpg, id=145, 548.80031pt x 312.41719pt>
+File: img/Ejer3T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer3T2HTML.jpg>
+Package pdftex.def Info: img/Ejer3T2HTML.jpg  used on input line 271.
+(pdftex.def)             Requested size: 443.57848pt x 252.52261pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 276.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 276.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[8 <./img/Ejer2T2Pagina.jpg> <./img/Ejer2T2Result.jpg>]
+<img/Ejer3T2Script.jpg, id=152, 479.54156pt x 702.37407pt>
+File: img/Ejer3T2Script.jpg Graphic file (type jpg)
+<use img/Ejer3T2Script.jpg>
+Package pdftex.def Info: img/Ejer3T2Script.jpg  used on input line 279.
+(pdftex.def)             Requested size: 443.57848pt x 649.70729pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 284.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 284.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[9 <./img/Ejer3T2HTML.jpg>]
+Overfull \vbox (25.45383pt too high) has occurred while \output is active []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 284.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 284.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[10 <./img/Ejer3T2Script.jpg>]
+<img/Ejer3T2Pagina.jpg, id=163, 963.6pt x 522.45187pt>
+File: img/Ejer3T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer3T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer3T2Pagina.jpg  used on input line 287.
+(pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
+<img/Ejer3T2Result.jpg, id=164, 963.6pt x 522.45187pt>
+File: img/Ejer3T2Result.jpg Graphic file (type jpg)
+<use img/Ejer3T2Result.jpg>
+Package pdftex.def Info: img/Ejer3T2Result.jpg  used on input line 295.
+(pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
+<img/Ejer4T2HTML.jpg, id=165, 559.33969pt x 398.23781pt>
+File: img/Ejer4T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer4T2HTML.jpg>
+Package pdftex.def Info: img/Ejer4T2HTML.jpg  used on input line 308.
+(pdftex.def)             Requested size: 443.57848pt x 315.8319pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 313.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 313.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[11 <./img/Ejer3T2Pagina.jpg> <./img/Ejer3T2Result.jpg>]
+<img/Ejer4T2Script.jpg, id=172, 587.19376pt x 697.8572pt>
+File: img/Ejer4T2Script.jpg Graphic file (type jpg)
+<use img/Ejer4T2Script.jpg>
+Package pdftex.def Info: img/Ejer4T2Script.jpg  used on input line 316.
+(pdftex.def)             Requested size: 443.57848pt x 527.1718pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 321.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 321.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[12 <./img/Ejer4T2HTML.jpg>]
+<img/Ejer4T2Pagina.jpg, id=178, 963.6pt x 523.20468pt>
+File: img/Ejer4T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer4T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer4T2Pagina.jpg  used on input line 324.
+(pdftex.def)             Requested size: 443.57848pt x 240.84473pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 329.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 329.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[13 <./img/Ejer4T2Script.jpg>]
+<img/Ejer4T2Result.jpg, id=185, 963.6pt x 494.59781pt>
+File: img/Ejer4T2Result.jpg Graphic file (type jpg)
+<use img/Ejer4T2Result.jpg>
+Package pdftex.def Info: img/Ejer4T2Result.jpg  used on input line 332.
+(pdftex.def)             Requested size: 443.57848pt x 227.67622pt.
+<img/Ejer5T2HTML.jpg, id=186, 541.27219pt x 339.51843pt>
+File: img/Ejer5T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer5T2HTML.jpg>
+Package pdftex.def Info: img/Ejer5T2HTML.jpg  used on input line 345.
+(pdftex.def)             Requested size: 443.57848pt x 278.2463pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 350.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 350.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[14 <./img/Ejer4T2Pagina.jpg> <./img/Ejer4T2Result.jpg>]
+<img/Ejer5T2Sript.jpg, id=193, 484.05844pt x 708.39656pt>
+File: img/Ejer5T2Sript.jpg Graphic file (type jpg)
+<use img/Ejer5T2Sript.jpg>
+Package pdftex.def Info: img/Ejer5T2Sript.jpg  used on input line 353.
+(pdftex.def)             Requested size: 443.57848pt x 649.18176pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 358.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 358.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[15 <./img/Ejer5T2HTML.jpg>]
+Overfull \vbox (24.9283pt too high) has occurred while \output is active []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 358.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 358.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[16 <./img/Ejer5T2Sript.jpg>]
+<img/Ejer5T2Pagina.jpg, id=204, 963.6pt x 496.85625pt>
+File: img/Ejer5T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer5T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer5T2Pagina.jpg  used on input line 361.
+(pdftex.def)             Requested size: 443.57848pt x 228.71585pt.
+<img/Ejer5T2Result.jpg, id=205, 963.6pt x 493.0922pt>
+File: img/Ejer5T2Result.jpg Graphic file (type jpg)
+<use img/Ejer5T2Result.jpg>
+Package pdftex.def Info: img/Ejer5T2Result.jpg  used on input line 369.
+(pdftex.def)             Requested size: 443.57848pt x 226.98315pt.
+<img/Ejer6T2HTML.jpg, id=206, 600.74437pt x 353.06906pt>
+File: img/Ejer6T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer6T2HTML.jpg>
+Package pdftex.def Info: img/Ejer6T2HTML.jpg  used on input line 382.
+(pdftex.def)             Requested size: 443.57848pt x 260.70671pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 387.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 387.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[17 <./img/Ejer5T2Pagina.jpg> <./img/Ejer5T2Result.jpg>]
+<img/Ejer6T2Scipr.jpg, id=213, 495.35063pt x 692.5875pt>
+File: img/Ejer6T2Scipr.jpg Graphic file (type jpg)
+<use img/Ejer6T2Scipr.jpg>
+Package pdftex.def Info: img/Ejer6T2Scipr.jpg  used on input line 390.
+(pdftex.def)             Requested size: 443.57848pt x 620.20541pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 395.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 395.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[18 <./img/Ejer6T2HTML.jpg>]
+<img/Ejer6T2Pagina.jpg, id=219, 963.6pt x 499.11469pt>
+File: img/Ejer6T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer6T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer6T2Pagina.jpg  used on input line 398.
+(pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 402.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 402.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[19 <./img/Ejer6T2Scipr.jpg>]
+<img/Ejer6T2Result.jpg, id=226, 963.6pt x 484.81125pt>
+File: img/Ejer6T2Result.jpg Graphic file (type jpg)
+<use img/Ejer6T2Result.jpg>
+Package pdftex.def Info: img/Ejer6T2Result.jpg  used on input line 406.
+(pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
+File: img/Ejer6T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer6T2HTML.jpg>
+Package pdftex.def Info: img/Ejer6T2HTML.jpg  used on input line 419.
+(pdftex.def)             Requested size: 443.57848pt x 260.70671pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 424.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 424.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[20 <./img/Ejer6T2Pagina.jpg> <./img/Ejer6T2Result.jpg>]
+File: img/Ejer6T2Scipr.jpg Graphic file (type jpg)
+<use img/Ejer6T2Scipr.jpg>
+Package pdftex.def Info: img/Ejer6T2Scipr.jpg  used on input line 427.
+(pdftex.def)             Requested size: 443.57848pt x 620.20541pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 432.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 432.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[21]
+File: img/Ejer6T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer6T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer6T2Pagina.jpg  used on input line 435.
+(pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 439.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 439.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[22]
+File: img/Ejer6T2Result.jpg Graphic file (type jpg)
+<use img/Ejer6T2Result.jpg>
+Package pdftex.def Info: img/Ejer6T2Result.jpg  used on input line 443.
+(pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
+<img/Ejer8T2HTMl.jpg, id=243, 608.2725pt x 338.01282pt>
+File: img/Ejer8T2HTMl.jpg Graphic file (type jpg)
+<use img/Ejer8T2HTMl.jpg>
+Package pdftex.def Info: img/Ejer8T2HTMl.jpg  used on input line 456.
+(pdftex.def)             Requested size: 443.57848pt x 246.49973pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 461.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 461.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[23]
+<img/Ejer8T2Script.jpg, id=250, 378.66469pt x 711.4078pt>
+File: img/Ejer8T2Script.jpg Graphic file (type jpg)
+<use img/Ejer8T2Script.jpg>
+Package pdftex.def Info: img/Ejer8T2Script.jpg  used on input line 464.
+(pdftex.def)             Requested size: 443.57848pt x 833.37503pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 469.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 469.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[24 <./img/Ejer8T2HTMl.jpg>]
+Overfull \vbox (209.12157pt too high) has occurred while \output is active []
+
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 469.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 469.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[25 <./img/Ejer8T2Script.jpg>]
+<img/Ejer8T2Pagina.jpg, id=262, 963.6pt x 499.11469pt>
+File: img/Ejer8T2Pagina.jpg Graphic file (type jpg)
+<use img/Ejer8T2Pagina.jpg>
+Package pdftex.def Info: img/Ejer8T2Pagina.jpg  used on input line 472.
+(pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
+<img/Ejer8T2Result.jpg, id=263, 963.6pt x 490.83376pt>
+File: img/Ejer8T2Result.jpg Graphic file (type jpg)
+<use img/Ejer8T2Result.jpg>
+Package pdftex.def Info: img/Ejer8T2Result.jpg  used on input line 480.
+(pdftex.def)             Requested size: 443.57848pt x 225.94354pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 496.
+(pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
+File: img/logo_abet.png Graphic file (type png)
+<use img/logo_abet.png>
+Package pdftex.def Info: img/logo_abet.png  used on input line 496.
+(pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
+
+
+Package fancyhdr Warning: \headheight is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.51407pt, for example:
+(fancyhdr)                \setlength{\headheight}{40.51407pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
+
+[26 <./img/Ejer8T2Pagina.jpg> <./img/Ejer8T2Result.jpg>]
+Overfull \hbox (4.41283pt too wide) in paragraph at lines 505--515
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--233
+Underfull \hbox (badness 10000) in paragraph at lines 505--515
 
  []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 235.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 517.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 235.
+Package pdftex.def Info: img/logo_abet.png  used on input line 517.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -710,40 +1263,40 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[4
+[27
 
 ]
-Overfull \hbox (5.9124pt too wide) in paragraph at lines 267--267
+Overfull \hbox (5.9124pt too wide) in paragraph at lines 549--549
 []|\OT1/cmr/m/n/10 Checklist| 
  []
 
 
-Overfull \hbox (4.45987pt too wide) in paragraph at lines 267--267
+Overfull \hbox (4.45987pt too wide) in paragraph at lines 549--549
 []|\OT1/cmr/m/n/10 Estudiante| 
  []
 
 
-Overfull \hbox (4.7852pt too wide) in paragraph at lines 267--268
+Overfull \hbox (4.7852pt too wide) in paragraph at lines 549--550
 []|\OT1/cmr/m/n/10 Profesor| 
  []
 
 
-Overfull \hbox (40.32231pt too wide) in paragraph at lines 265--291
+Overfull \hbox (40.32231pt too wide) in paragraph at lines 547--573
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--291
+Underfull \hbox (badness 10000) in paragraph at lines 547--573
 
  []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 293.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 575.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 293.
+Package pdftex.def Info: img/logo_abet.png  used on input line 575.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -752,16 +1305,16 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[5
+[28
 
 ]
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 306.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 588.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 306.
+Package pdftex.def Info: img/logo_abet.png  used on input line 588.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -771,7 +1324,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[6
+[29
 
 ] (c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\ajax\Ajax\Informe\build\informe.aux
 LaTeX Info: Redefining \. on input line 23.
@@ -783,17 +1336,17 @@ Package rerunfilecheck Info: File `informe.out' has not changed.
 (rerunfilecheck)             Checksum: 95615B7B012FFCF8EA1CBEB5207370F4;5667.
  ) 
 Here is how much of TeX's memory you used:
- 17360 strings out of 476331
- 300461 string characters out of 5787765
+ 17614 strings out of 476331
+ 305959 string characters out of 5787765
  1874660 words of memory out of 5000000
- 37482 multiletter control sequences out of 15000+600000
+ 37652 multiletter control sequences out of 15000+600000
  514696 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,16n,92p,908b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,16n,92p,908b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\ajax\Ajax\Informe\build\informe.pdf" (6 pages, 134674 bytes).
+Output written on "c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\ajax\Ajax\Informe\build\informe.pdf" (29 pages, 2361694 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 323 words of extra memory for PDF output out of 10000 (max. 10000000)
 
