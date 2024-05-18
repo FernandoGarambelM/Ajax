@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
             if (xhr.status == 200) {
                 var data = JSON.parse(xhr.responseText);
                 mostrarConfirmadosPorRegion(data);
+                btnConfirmadosRegion.style.display = 'none';
             } else {
                 console.error('Error en la red:', xhr.statusText);
             }
