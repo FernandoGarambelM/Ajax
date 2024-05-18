@@ -8,9 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
         xhr.onload = function() {
             if (xhr.status === 200) {
                 let data = JSON.parse(xhr.responseText);
-                let regions = data;
-                if (regions.length > 0) {
-                    mostrarGraficoComparativo(regions);
+                if (data.length > 0) {
+                    mostrarGraficos(data);
                     contenedor.style.display = 'flex';
                     btnMostrarGrafico.style.display = 'none';
                 } else {
@@ -24,39 +23,41 @@ document.addEventListener("DOMContentLoaded", function() {
             console.error('Error en la red');
         };
         xhr.send();
-    })
-})
-
-function mostrarGraficoComparativo(regions) {
-    let labels = [];
-    let datasets = [];
-
-    regions.forEach(region => {
-        let dates = region.confirmed.map(entry => entry.date);
-        let values = region.confirmed.map(entry => parseInt(entry.value));
-
-        if (labels.length === 0) {
-            labels = dates;
-        }
-
-        datasets.push({
-            label: region.region,
-            data: values,
-            borderColor: getRandomColor(),
-            backgroundColor: getRandomColor(0.2),
-            fill: false,
-        })
     });
-    let ctx = document.getElementById('GraficoComparativo').getContext('2d');
-    new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: labels,
-            datasets: datasets
-        }
+});
+
+function mostrarGraficos(data) {
+    const contenedor = document.querySelector('.contenedor');
+    contenedor.innerHTML = ''; // Clear any existing content
+
+    data.forEach(regionData => {
+        const canvasContainer = document.createElement('div');
+        canvasContainer.classList.add('canvas-container');
+        const canvas = document.createElement('canvas');
+        canvas.id = `Grafico-${regionData.region}`;
+        canvasContainer.appendChild(canvas);
+        contenedor.appendChild(canvasContainer);
+
+        let dates = regionData.confirmed.map(entry => entry.date);
+        let values = regionData.confirmed.map(entry => parseInt(entry.value));
+
+        let ctx = canvas.getContext('2d');
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: dates,
+                datasets: [{
+                    label: `Número de Confirmados en ${regionData.region}`,
+                    data: values,
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    fill: true,
+                }]
+            }
+        });
     });
-    
 }
+
 function getRandomColor(alpha = 1) {
     const r = Math.floor(Math.random() * 255);
     const g = Math.floor(Math.random() * 255);
