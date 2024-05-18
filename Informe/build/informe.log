@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.19)  18 MAY 2024 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.19)  18 MAY 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,18 +650,13 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [1{C:/Users/luisg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./img/logo_episunsa.png> <./img/logo_abet.png>]
-<img/Ejer1T2HTML.jpg, id=125, 524.71031pt x 295.1025pt>
-File: img/Ejer1T2HTML.jpg Graphic file (type jpg)
-<use img/Ejer1T2HTML.jpg>
-Package pdftex.def Info: img/Ejer1T2HTML.jpg  used on input line 198.
-(pdftex.def)             Requested size: 443.57848pt x 249.48293pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 203.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 193.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 203.
+Package pdftex.def Info: img/logo_abet.png  used on input line 193.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -674,23 +669,28 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [2
 
 ]
+<img/Ejer1T2HTML.jpg, id=130, 524.71031pt x 295.1025pt>
+File: img/Ejer1T2HTML.jpg Graphic file (type jpg)
+<use img/Ejer1T2HTML.jpg>
+Package pdftex.def Info: img/Ejer1T2HTML.jpg  used on input line 201.
+(pdftex.def)             Requested size: 443.57848pt x 249.48293pt.
 <img/Ejer1T2Script.jpg, id=131, 463.7325pt x 207.77625pt>
 File: img/Ejer1T2Script.jpg Graphic file (type jpg)
 <use img/Ejer1T2Script.jpg>
-Package pdftex.def Info: img/Ejer1T2Script.jpg  used on input line 206.
+Package pdftex.def Info: img/Ejer1T2Script.jpg  used on input line 209.
 (pdftex.def)             Requested size: 443.57848pt x 198.74957pt.
 <img/Ejer1T2Página.jpg, id=132, 586.44093pt x 654.94687pt>
 File: img/Ejer1T2Página.jpg Graphic file (type jpg)
 <use img/Ejer1T2Página.jpg>
-Package pdftex.def Info: img/Ejer1T2Página.jpg  used on input line 214.
+Package pdftex.def Info: img/Ejer1T2Página.jpg  used on input line 217.
 (pdftex.def)             Requested size: 443.57848pt x 495.3963pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 219.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 222.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 219.
+Package pdftex.def Info: img/logo_abet.png  used on input line 222.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -700,19 +700,21 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
-[3 <./img/Ejer1T2HTML.jpg> <./img/Ejer1T2Script.jpg>]
+[3
+
+ <./img/Ejer1T2HTML.jpg> <./img/Ejer1T2Script.jpg>]
 <img/Ejer1T2result.jpg, id=139, 522.45187pt x 621.82312pt>
 File: img/Ejer1T2result.jpg Graphic file (type jpg)
 <use img/Ejer1T2result.jpg>
-Package pdftex.def Info: img/Ejer1T2result.jpg  used on input line 222.
+Package pdftex.def Info: img/Ejer1T2result.jpg  used on input line 225.
 (pdftex.def)             Requested size: 443.57848pt x 527.95438pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 227.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 230.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 227.
+Package pdftex.def Info: img/logo_abet.png  used on input line 230.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -726,15 +728,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer2T2HTML.jpg, id=145, 519.44063pt x 262.73157pt>
 File: img/Ejer2T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer2T2HTML.jpg>
-Package pdftex.def Info: img/Ejer2T2HTML.jpg  used on input line 234.
+Package pdftex.def Info: img/Ejer2T2HTML.jpg  used on input line 237.
 (pdftex.def)             Requested size: 443.57848pt x 224.36119pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 239.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 242.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 239.
+Package pdftex.def Info: img/logo_abet.png  used on input line 242.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -748,15 +750,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer2T2Script.jpg, id=151, 688.07062pt x 684.30656pt>
 File: img/Ejer2T2Script.jpg Graphic file (type jpg)
 <use img/Ejer2T2Script.jpg>
-Package pdftex.def Info: img/Ejer2T2Script.jpg  used on input line 242.
+Package pdftex.def Info: img/Ejer2T2Script.jpg  used on input line 245.
 (pdftex.def)             Requested size: 443.57848pt x 441.14986pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 247.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 250.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 247.
+Package pdftex.def Info: img/logo_abet.png  used on input line 250.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -770,15 +772,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer2T2Pagina.jpg, id=157, 963.6pt x 408.77719pt>
 File: img/Ejer2T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer2T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer2T2Pagina.jpg  used on input line 250.
+Package pdftex.def Info: img/Ejer2T2Pagina.jpg  used on input line 253.
 (pdftex.def)             Requested size: 443.57848pt x 188.17076pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 255.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 258.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 255.
+Package pdftex.def Info: img/logo_abet.png  used on input line 258.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -792,20 +794,20 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer2T2Result.jpg, id=164, 963.6pt x 521.69907pt>
 File: img/Ejer2T2Result.jpg Graphic file (type jpg)
 <use img/Ejer2T2Result.jpg>
-Package pdftex.def Info: img/Ejer2T2Result.jpg  used on input line 258.
+Package pdftex.def Info: img/Ejer2T2Result.jpg  used on input line 261.
 (pdftex.def)             Requested size: 443.57848pt x 240.15164pt.
 <img/Ejer3T2HTML.jpg, id=165, 548.80031pt x 312.41719pt>
 File: img/Ejer3T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer3T2HTML.jpg>
-Package pdftex.def Info: img/Ejer3T2HTML.jpg  used on input line 271.
+Package pdftex.def Info: img/Ejer3T2HTML.jpg  used on input line 274.
 (pdftex.def)             Requested size: 443.57848pt x 252.52261pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 276.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 279.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 276.
+Package pdftex.def Info: img/logo_abet.png  used on input line 279.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -819,15 +821,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer3T2Script.jpg, id=172, 479.54156pt x 702.37407pt>
 File: img/Ejer3T2Script.jpg Graphic file (type jpg)
 <use img/Ejer3T2Script.jpg>
-Package pdftex.def Info: img/Ejer3T2Script.jpg  used on input line 279.
+Package pdftex.def Info: img/Ejer3T2Script.jpg  used on input line 282.
 (pdftex.def)             Requested size: 443.57848pt x 649.70729pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 284.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 287.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 284.
+Package pdftex.def Info: img/logo_abet.png  used on input line 287.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -842,11 +844,11 @@ Overfull \vbox (25.45383pt too high) has occurred while \output is active []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 284.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 287.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 284.
+Package pdftex.def Info: img/logo_abet.png  used on input line 287.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -860,25 +862,25 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer3T2Pagina.jpg, id=183, 963.6pt x 522.45187pt>
 File: img/Ejer3T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer3T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer3T2Pagina.jpg  used on input line 287.
+Package pdftex.def Info: img/Ejer3T2Pagina.jpg  used on input line 290.
 (pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
 <img/Ejer3T2Result.jpg, id=184, 963.6pt x 522.45187pt>
 File: img/Ejer3T2Result.jpg Graphic file (type jpg)
 <use img/Ejer3T2Result.jpg>
-Package pdftex.def Info: img/Ejer3T2Result.jpg  used on input line 295.
+Package pdftex.def Info: img/Ejer3T2Result.jpg  used on input line 298.
 (pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
 <img/Ejer4T2HTML.jpg, id=185, 559.33969pt x 398.23781pt>
 File: img/Ejer4T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer4T2HTML.jpg>
-Package pdftex.def Info: img/Ejer4T2HTML.jpg  used on input line 308.
+Package pdftex.def Info: img/Ejer4T2HTML.jpg  used on input line 311.
 (pdftex.def)             Requested size: 443.57848pt x 315.8319pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 313.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 316.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 313.
+Package pdftex.def Info: img/logo_abet.png  used on input line 316.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -892,15 +894,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer4T2Script.jpg, id=192, 587.19376pt x 697.8572pt>
 File: img/Ejer4T2Script.jpg Graphic file (type jpg)
 <use img/Ejer4T2Script.jpg>
-Package pdftex.def Info: img/Ejer4T2Script.jpg  used on input line 316.
+Package pdftex.def Info: img/Ejer4T2Script.jpg  used on input line 319.
 (pdftex.def)             Requested size: 443.57848pt x 527.1718pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 321.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 324.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 321.
+Package pdftex.def Info: img/logo_abet.png  used on input line 324.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -914,15 +916,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer4T2Pagina.jpg, id=198, 963.6pt x 523.20468pt>
 File: img/Ejer4T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer4T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer4T2Pagina.jpg  used on input line 324.
+Package pdftex.def Info: img/Ejer4T2Pagina.jpg  used on input line 327.
 (pdftex.def)             Requested size: 443.57848pt x 240.84473pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 329.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 332.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 329.
+Package pdftex.def Info: img/logo_abet.png  used on input line 332.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -936,20 +938,20 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer4T2Result.jpg, id=205, 963.6pt x 494.59781pt>
 File: img/Ejer4T2Result.jpg Graphic file (type jpg)
 <use img/Ejer4T2Result.jpg>
-Package pdftex.def Info: img/Ejer4T2Result.jpg  used on input line 332.
+Package pdftex.def Info: img/Ejer4T2Result.jpg  used on input line 335.
 (pdftex.def)             Requested size: 443.57848pt x 227.67622pt.
 <img/Ejer5T2HTML.jpg, id=206, 541.27219pt x 339.51843pt>
 File: img/Ejer5T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer5T2HTML.jpg>
-Package pdftex.def Info: img/Ejer5T2HTML.jpg  used on input line 345.
+Package pdftex.def Info: img/Ejer5T2HTML.jpg  used on input line 348.
 (pdftex.def)             Requested size: 443.57848pt x 278.2463pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 350.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 353.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 350.
+Package pdftex.def Info: img/logo_abet.png  used on input line 353.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -963,15 +965,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer5T2Sript.jpg, id=213, 484.05844pt x 708.39656pt>
 File: img/Ejer5T2Sript.jpg Graphic file (type jpg)
 <use img/Ejer5T2Sript.jpg>
-Package pdftex.def Info: img/Ejer5T2Sript.jpg  used on input line 353.
+Package pdftex.def Info: img/Ejer5T2Sript.jpg  used on input line 356.
 (pdftex.def)             Requested size: 443.57848pt x 649.18176pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 358.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 361.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 358.
+Package pdftex.def Info: img/logo_abet.png  used on input line 361.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -986,11 +988,11 @@ Overfull \vbox (24.9283pt too high) has occurred while \output is active []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 358.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 361.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 358.
+Package pdftex.def Info: img/logo_abet.png  used on input line 361.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1004,25 +1006,25 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer5T2Pagina.jpg, id=224, 963.6pt x 496.85625pt>
 File: img/Ejer5T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer5T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer5T2Pagina.jpg  used on input line 361.
+Package pdftex.def Info: img/Ejer5T2Pagina.jpg  used on input line 364.
 (pdftex.def)             Requested size: 443.57848pt x 228.71585pt.
 <img/Ejer5T2Result.jpg, id=225, 963.6pt x 495.35063pt>
 File: img/Ejer5T2Result.jpg Graphic file (type jpg)
 <use img/Ejer5T2Result.jpg>
-Package pdftex.def Info: img/Ejer5T2Result.jpg  used on input line 369.
+Package pdftex.def Info: img/Ejer5T2Result.jpg  used on input line 372.
 (pdftex.def)             Requested size: 443.57848pt x 228.02278pt.
 <img/Ejer6T2HTML.jpg, id=226, 600.74437pt x 353.06906pt>
 File: img/Ejer6T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer6T2HTML.jpg>
-Package pdftex.def Info: img/Ejer6T2HTML.jpg  used on input line 382.
+Package pdftex.def Info: img/Ejer6T2HTML.jpg  used on input line 385.
 (pdftex.def)             Requested size: 443.57848pt x 260.70671pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 387.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 390.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 387.
+Package pdftex.def Info: img/logo_abet.png  used on input line 390.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1036,15 +1038,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer6T2Scipr.jpg, id=233, 495.35063pt x 692.5875pt>
 File: img/Ejer6T2Scipr.jpg Graphic file (type jpg)
 <use img/Ejer6T2Scipr.jpg>
-Package pdftex.def Info: img/Ejer6T2Scipr.jpg  used on input line 390.
+Package pdftex.def Info: img/Ejer6T2Scipr.jpg  used on input line 393.
 (pdftex.def)             Requested size: 443.57848pt x 620.20541pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 395.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 398.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 395.
+Package pdftex.def Info: img/logo_abet.png  used on input line 398.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1058,15 +1060,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer6T2Pagina.jpg, id=239, 963.6pt x 499.11469pt>
 File: img/Ejer6T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer6T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer6T2Pagina.jpg  used on input line 398.
+Package pdftex.def Info: img/Ejer6T2Pagina.jpg  used on input line 401.
 (pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 402.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 405.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 402.
+Package pdftex.def Info: img/logo_abet.png  used on input line 405.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1080,20 +1082,20 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer6T2Result.jpg, id=246, 963.6pt x 484.81125pt>
 File: img/Ejer6T2Result.jpg Graphic file (type jpg)
 <use img/Ejer6T2Result.jpg>
-Package pdftex.def Info: img/Ejer6T2Result.jpg  used on input line 406.
+Package pdftex.def Info: img/Ejer6T2Result.jpg  used on input line 409.
 (pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
 <img/Ejer7T2HTML.jpg, id=247, 533.74406pt x 727.96968pt>
 File: img/Ejer7T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer7T2HTML.jpg>
-Package pdftex.def Info: img/Ejer7T2HTML.jpg  used on input line 419.
+Package pdftex.def Info: img/Ejer7T2HTML.jpg  used on input line 422.
 (pdftex.def)             Requested size: 443.57848pt x 605.01447pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 424.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 427.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 424.
+Package pdftex.def Info: img/logo_abet.png  used on input line 427.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1107,15 +1109,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer7T2Script.jpg, id=254, 461.47406pt x 696.35156pt>
 File: img/Ejer7T2Script.jpg Graphic file (type jpg)
 <use img/Ejer7T2Script.jpg>
-Package pdftex.def Info: img/Ejer7T2Script.jpg  used on input line 427.
+Package pdftex.def Info: img/Ejer7T2Script.jpg  used on input line 430.
 (pdftex.def)             Requested size: 443.57848pt x 669.35057pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 431.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 434.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 431.
+Package pdftex.def Info: img/logo_abet.png  used on input line 434.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1128,11 +1130,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [21 <./img/Ejer7T2HTML.jpg>]
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 432.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 435.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 432.
+Package pdftex.def Info: img/logo_abet.png  used on input line 435.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1147,11 +1149,11 @@ Overfull \vbox (45.0971pt too high) has occurred while \output is active []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 432.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 435.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 432.
+Package pdftex.def Info: img/logo_abet.png  used on input line 435.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1165,25 +1167,25 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer7T2Pagina.jpg, id=269, 963.6pt x 497.60907pt>
 File: img/Ejer7T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer7T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer7T2Pagina.jpg  used on input line 435.
+Package pdftex.def Info: img/Ejer7T2Pagina.jpg  used on input line 438.
 (pdftex.def)             Requested size: 443.57848pt x 229.0624pt.
 <img/Ejer7T2Result.jpg, id=270, 963.6pt x 484.81125pt>
 File: img/Ejer7T2Result.jpg Graphic file (type jpg)
 <use img/Ejer7T2Result.jpg>
-Package pdftex.def Info: img/Ejer7T2Result.jpg  used on input line 443.
+Package pdftex.def Info: img/Ejer7T2Result.jpg  used on input line 446.
 (pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
 <img/Ejer8T2HTMl.jpg, id=271, 608.2725pt x 338.01282pt>
 File: img/Ejer8T2HTMl.jpg Graphic file (type jpg)
 <use img/Ejer8T2HTMl.jpg>
-Package pdftex.def Info: img/Ejer8T2HTMl.jpg  used on input line 456.
+Package pdftex.def Info: img/Ejer8T2HTMl.jpg  used on input line 459.
 (pdftex.def)             Requested size: 443.57848pt x 246.49973pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 461.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 464.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 461.
+Package pdftex.def Info: img/logo_abet.png  used on input line 464.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1197,15 +1199,15 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer8T2Script.jpg, id=278, 378.66469pt x 711.4078pt>
 File: img/Ejer8T2Script.jpg Graphic file (type jpg)
 <use img/Ejer8T2Script.jpg>
-Package pdftex.def Info: img/Ejer8T2Script.jpg  used on input line 464.
+Package pdftex.def Info: img/Ejer8T2Script.jpg  used on input line 467.
 (pdftex.def)             Requested size: 443.57848pt x 833.37503pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 469.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 472.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 469.
+Package pdftex.def Info: img/logo_abet.png  used on input line 472.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1220,11 +1222,11 @@ Overfull \vbox (209.12157pt too high) has occurred while \output is active []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 469.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 472.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 469.
+Package pdftex.def Info: img/logo_abet.png  used on input line 472.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1238,25 +1240,25 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 <img/Ejer8T2Pagina.jpg, id=290, 963.6pt x 499.11469pt>
 File: img/Ejer8T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer8T2Pagina.jpg>
-Package pdftex.def Info: img/Ejer8T2Pagina.jpg  used on input line 472.
+Package pdftex.def Info: img/Ejer8T2Pagina.jpg  used on input line 475.
 (pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
 <img/Ejer8T2Result.jpg, id=291, 963.6pt x 490.83376pt>
 File: img/Ejer8T2Result.jpg Graphic file (type jpg)
 <use img/Ejer8T2Result.jpg>
-Package pdftex.def Info: img/Ejer8T2Result.jpg  used on input line 480.
+Package pdftex.def Info: img/Ejer8T2Result.jpg  used on input line 483.
 (pdftex.def)             Requested size: 443.57848pt x 225.94354pt.
 <img/wsLuis.jpg, id=292, 963.6pt x 520.19344pt>
 File: img/wsLuis.jpg Graphic file (type jpg)
 <use img/wsLuis.jpg>
-Package pdftex.def Info: img/wsLuis.jpg  used on input line 493.
+Package pdftex.def Info: img/wsLuis.jpg  used on input line 496.
 (pdftex.def)             Requested size: 443.57848pt x 239.45856pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 498.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 501.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 498.
+Package pdftex.def Info: img/logo_abet.png  used on input line 501.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1269,11 +1271,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [27 <./img/Ejer8T2Pagina.jpg> <./img/Ejer8T2Result.jpg>]
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 508.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 511.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 508.
+Package pdftex.def Info: img/logo_abet.png  used on input line 511.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1284,22 +1286,22 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [28 <./img/wsLuis.jpg>]
-Overfull \hbox (4.41283pt too wide) in paragraph at lines 517--527
+Overfull \hbox (4.41283pt too wide) in paragraph at lines 520--530
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--527
+Underfull \hbox (badness 10000) in paragraph at lines 520--530
 
  []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 529.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 532.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 529.
+Package pdftex.def Info: img/logo_abet.png  used on input line 532.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1311,37 +1313,37 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [29
 
 ]
-Overfull \hbox (5.9124pt too wide) in paragraph at lines 561--561
+Overfull \hbox (5.9124pt too wide) in paragraph at lines 564--564
 []|\OT1/cmr/m/n/10 Checklist| 
  []
 
 
-Overfull \hbox (4.45987pt too wide) in paragraph at lines 561--561
+Overfull \hbox (4.45987pt too wide) in paragraph at lines 564--564
 []|\OT1/cmr/m/n/10 Estudiante| 
  []
 
 
-Overfull \hbox (4.7852pt too wide) in paragraph at lines 561--562
+Overfull \hbox (4.7852pt too wide) in paragraph at lines 564--565
 []|\OT1/cmr/m/n/10 Profesor| 
  []
 
 
-Overfull \hbox (40.32231pt too wide) in paragraph at lines 559--585
+Overfull \hbox (40.32231pt too wide) in paragraph at lines 562--588
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--585
+Underfull \hbox (badness 10000) in paragraph at lines 562--588
 
  []
 
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 587.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 590.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 587.
+Package pdftex.def Info: img/logo_abet.png  used on input line 590.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 Package fancyhdr Warning: \headheight is too small (30.0pt): 
@@ -1355,11 +1357,11 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 ]
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 600.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 603.
 (pdftex.def)             Requested size: 85.35826pt x 25.38835pt.
 File: img/logo_abet.png Graphic file (type png)
 <use img/logo_abet.png>
-Package pdftex.def Info: img/logo_abet.png  used on input line 600.
+Package pdftex.def Info: img/logo_abet.png  used on input line 603.
 (pdftex.def)             Requested size: 34.14322pt x 38.26549pt.
 
 
@@ -1389,7 +1391,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  94i,16n,92p,908b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\ajax\Ajax\Informe\build\informe.pdf" (31 pages, 2971810 bytes).
+Output written on "c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\ajax\Ajax\Informe\build\informe.pdf" (31 pages, 2971885 bytes).
 PDF statistics:
  370 PDF objects out of 1000 (max. 8388607)
  96 named destinations out of 1000 (max. 500000)

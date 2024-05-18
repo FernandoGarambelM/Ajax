@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1716060542 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" "build/informe.pdf" "informe" 1716060547 0
+["pdflatex"] 1716060852 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" "build/informe.pdf" "informe" 1716060855 0
   "C:/Users/luisg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702406101 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/luisg/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695176059 23178960 44c98fc1914124201fa15bc2b5c82cfb ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -118,9 +118,9 @@
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "build/informe.aux" 1716060546 4932 cab985e26f354759d5bf65144aa18e1c "pdflatex"
-  "build/informe.out" 1716060546 6622 5d68d777d043342e6b33f20377d99c3d "pdflatex"
-  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" 1716060543 19530 c63864eddde7ab6e3dbec1e909983226 ""
+  "build/informe.aux" 1716060855 4932 9843cda0a58fb7b1c1254757c9c20bcc "pdflatex"
+  "build/informe.out" 1716060855 6622 5d68d777d043342e6b33f20377d99c3d "pdflatex"
+  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/ajax/Ajax/Informe/informe.tex" 1716060848 19547 96234d6ecae5fef66841af43c3ecbf31 ""
   "img/Ejer1T2HTML.jpg" 1716043645 53389 1b18f04dfa95e563f87e81e7d0e79c83 ""
   "img/Ejer1T2Página.jpg" 1716043853 27101 95f5d59c30f388386384af6f656fcddc ""
   "img/Ejer1T2Script.jpg" 1716043746 40056 969b745064c83ef008226a52f8aee3a4 ""
@@ -156,7 +156,7 @@
   "img/logo_abet.png" 1695176645 6307 419a1d1911db3872e78cc7f9d6dfea5f ""
   "img/logo_episunsa.png" 1695176645 6815 2a9ee48dad6b8fd2216f86902e5e7a6f ""
   "img/wsLuis.jpg" 1716059700 128548 8783bbeea9063e29d66344886c57220c ""
-  "informe.tex" 1716060543 19530 c63864eddde7ab6e3dbec1e909983226 ""
+  "informe.tex" 1716060848 19547 96234d6ecae5fef66841af43c3ecbf31 ""
   (generated)
   "build/informe.aux"
   "build/informe.log"
