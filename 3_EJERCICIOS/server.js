@@ -20,6 +20,15 @@ app.get('/', (request, response) => {
 	response.sendFile(path.resolve(__dirname, 'pub/index.html'))
 })
 
-app.post('/', (request, response) => {
-	
-})
+app.get('/markdown-files', (request, response) => {
+    const markdownDir = path.resolve(__dirname, 'Mrkd');
+    fs.readdir(markdownDir, (err, files) => {
+        if (err) {
+            console.error(err);
+            response.status(500).json({ error: 'Incapaz de leer el directorio' });
+            return;
+        }
+        const markdownFiles = files.filter(file => file.endsWith('.md')); // Filtrar solo los archivos .md
+        response.json(markdownFiles);
+    });
+});
