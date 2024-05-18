@@ -19,7 +19,7 @@ app.listen(3000, () => {
 app.get('/', (request, response) => {
 	response.sendFile(path.resolve(__dirname, 'pub/index.html'))
 })
-
+// Ruta para devolver la lista de archivos Markdown
 app.get('/markdown-files', (request, response) => {
     const markdownDir = path.resolve(__dirname, 'Mrkd');
     fs.readdir(markdownDir, (err, files) => {
@@ -30,5 +30,19 @@ app.get('/markdown-files', (request, response) => {
         }
         const markdownFiles = files.filter(file => file.endsWith('.md')); // Filtrar solo los archivos .md
         response.json(markdownFiles);
+    });
+});
+// Ruta para devolver el contenido de un archivo Markdown específico
+app.get('/markdown-content', (request, response) => {
+    const fileName = request.query.file;
+    const filePath = path.resolve(__dirname, 'Mrkd', fileName);
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error(err);
+            response.status(500).json({ error: 'Incapaz de leer el directorio' });
+            return;
+        }
+        const htmlContent = md.render(data);
+        response.json({ content: htmlContent });
     });
 });
