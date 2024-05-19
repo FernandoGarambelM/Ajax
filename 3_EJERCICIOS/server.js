@@ -46,3 +46,20 @@ app.get('/markdown-content', (request, response) => {
         response.json({ content: htmlContent });
     });
 });
+// Ruta para crear y almacenar un nuevo archivo Markdown
+app.post('/create-markdown', (request, response) => {
+    const { fileName, content } = request.body;
+    if (!fileName || !content) {
+        response.status(400).json({ error: 'fileName y content son requeridos' });
+        return;
+    }
+    const filePath = path.resolve(__dirname, 'Mrkd', fileName);
+    fs.writeFile(filePath, content, (err) => {
+        if (err) {
+            console.error(err);
+            response.status(500).json({ error: 'Incapaz de escribir el archivo' });
+            return;
+        }
+        response.json({ message: 'Archivo creado exitosamente' });
+    });
+});
